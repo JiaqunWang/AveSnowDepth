@@ -1,4 +1,8 @@
 # AveSnowDepth
+
+<URL https://www.youtube.com/watch?v=yeo-UPD7nCw>
+
+Description:
 The software uses the daily snow depth data in NASA Earth Data set from 1982 to 2021 to compute the average snow depth data in the conterminous US. The software can obtain the daily average snowfall data for a specific location within a particular period by entering the latitude and longitude, and time information.
 
 The Location Map section shows the geographic location of the current input latitude and longitude. Users can check the current location of the data point by entering the longitude and latitude data in the Input module and then clicking the Verify Location option.
